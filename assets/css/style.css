@@ -1,0 +1,8 @@
+.character-card {
+    background: black;
+    width: 200px;
+    height: 200px;
+}
+.character-button-text{
+    background-color: rgba(250,250,250,.7);
+}
